@@ -1,0 +1,141 @@
+// TabBar
+"PROFILE" = "Profile";
+"SEARCH" = "Search";
+"MORE" = "More";
+
+// Home tab
+"MEMBERS ONLINE" = "CouchSurfers online";
+"PROFILE VIEWS" = "profile views";
+"UNREAD MESSAGE" = "unread message";
+"UNREAD MESSAGES" = "unread messages";
+"FRIEND REQUEST" = "friend request";
+"FRIEND REQUESTS" = "friend requests";
+"COUCH REQUEST" = "couch request";
+"COUCH REQUESTS" = "couch requests";
+"MEMBER SINCE" = "Member since";
+
+// Location
+"LOCATING" = "Locating…";
+"LOCATION WARNING TITLE" = "CouchBug needs your current location";
+"LOCATION WARNING BODY" = "To find couches near you, app needs to know your current location.\n\nPlease enable Location Services for CouchBug in the \"Settings\" → \"Location Services\" or tap on \"Filter\" and select location manually.";
+
+"ERROR" = "Error";
+"LOCATION NOT FOUND" = "Your location couldn't be determined. Select location manually.";
+
+// Search results tab
+"LOADING COUCHES" = "Loading couches…";
+"FILTER" = "Filter";
+"COUCHSEARCH" = "CouchSearch";
+
+// Search result cell
+"REFERENCES LOWERCASE" = "references";
+"PHOTOS LOWERCASE" = "photos";
+"REPLY RATE LOWERCASE" = "reply rate";
+
+// Search filter
+"LOCATION" = "Location";
+
+"COUCH STATUS" = "Couch status";
+"YES" = "Yes";
+"MAYBE" = "Maybe";
+"COFFEE" = "Coffee or a Drink";
+"TRAVELING" = "Traveling";
+
+"HOST" = "Host";
+"AGE" = "Age";
+"HAS SPACE FOR" = "Has space for";
+"LANGUAGE" = "Language";
+"LAST LOGIN" = "Last login";
+"MALE" = "Male";
+"FEMALE" = "Female";
+"SEVERAL PEOPLE" = "Several people";
+"HAS PHOTO" = "Has photo";
+"WHEELCHAIR ACCESSIBLE" = "Wheelchair accessible";
+
+"TO" = "to";
+"ANY" = "Any";
+"DAYS" = "days";
+"HOURS" = "hours";
+
+"COMMUNITY" = "Community";
+"VERIFIED" = "Verified";
+"VOUCHED" = "Vouched";
+"AMBASSADOR" = "Ambassador";
+
+"NAME USERNAME" = "Name";
+"KEYWORD" = "Keyword";
+
+// Language picker
+"ANY LANGUAGE" = "Any language";
+
+// Search location
+"LOADING LOCATIONS" = "Loading locations…";
+"CURRENT LOCATION" = "Current location";
+"EVERYWHERE" = "Everywhere";
+
+// User's profile
+"COUCHREQUEST" = "CouchRequest";
+"FROM" = "From";
+"REFERENCES" = "References";
+"FRIENDS" = "Friends";
+"CURRENT MISSION" = "Current mission";
+"PERSONAL DESCRIPTION" = "Personal description";
+"COUCH INFORMATION" = "Couch information";
+"LOADING" = "Loading…";
+
+"PREFERRED GENDER" = "Preferred gender";
+"MAX SURFERS PER NIGHT" = "Max surfers per night";
+"SHARED SLEEPING SURFACE" = "Shared sleeping surface";
+"SHARED ROOM" = "Shared room";
+
+// CouchRequest form
+"SENDING" = "Sending…";
+"SEND" = "Send";
+"SUBJECT" = "Subject";
+"CHOOSE" = "Choose";
+
+"ARRIVAL DATE" = "Arrival date";
+"DEPARTURE DATE" = "Departure date";
+
+"NUMBER OF SURFERS" = "Number of surfers";
+"ARRIVING VIA" = "Arriving via";
+
+"PLANE" = "Plane";
+"MOTOR VEHICLE" = "Motor vehicle";
+"BUS" = "Bus";
+"TRAIN" = "Train";
+"BICYCLE" = "Bicycle";
+"FOOT" = "Foot";
+"METRO" = "Metro";
+"BOAT" = "Boat";
+"HITCH-HIKING" = "Hitch-hiking";
+"OTHER" = "Other"; 
+
+"COUCHREQUEST SENT" = "CouchRequest sent successfully!";
+
+// Login / logout
+"USERNAME" = "Username";
+"PASSWORD" = "Password";
+"CANCEL" = "Cancel";
+
+"SIGN UP" = "Sign up";
+"SIGN IN" = "Sign in";
+"SIGN OUT" = "Sign out";
+"SIGNING IN" = "Signing in…";
+"SIGNING OUT" = "Signing out…";
+
+"LOGIN DESCRIPTION" = "Sign in with your CS credentials. If you don't have an account, you can sign up for one. To find more about CouchSurfing, tap on More.";
+
+"SORRY" = "Sorry";
+"LOGIN ERROR" = "Username and password combination is not valid";
+
+"LOADING PROFILE" = "Loading profile…";
+
+// More tab
+"COUCHSURFING" = "CouchSurfing";
+"ABOUT" = "About";
+"FAQ" = "FAQ";
+"CONTACT" = "Contact";
+
+"COUCHBUG" = "CouchBug";
+"REVIEW ON ITUNES" = "Review on iTunes";
