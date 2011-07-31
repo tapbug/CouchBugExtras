@@ -1,0 +1,23 @@
+CouchSurfing gibt es jetzt endlich auch auf dem iPhone & iPod Touch!
+!!! NUR FÜR BEGRENZTE ZEIT KOSTENLOS !!! Erzähl deinen Freunden davon, damit das App länger kostenlos bleibt...
+Reise umsonst um die Welt, erkunde Orte wie die Einheimischen und lerne wunderbare Freunde kennen!
+
+CouchBug wurde nicht von CouchSurfing International Inc. entwickelt.
+
+CouchSurfing ist ein internationales gemeinnütziges Netzwerk, das in mehr als 230 Ländern in der ganzen Welt Reisende mit Einheimischen verbindet. Seit 2004 nutzen Mitglieder das CS-System, um sich für kulturellen Austausch, Freundschaften und Erfahrungen zu treffen. Heute hat CouchSurfing mehr als 3 Millionen Mitglieder.
+
+Mit dem CouchBug App kannst du von deinem iPhone und iPod Touch auf das CouchSurfing Netzwerk zugreifen.
+Wir sind auch CouchSurfer und wissen, dass man beim Reisen nicht immer einen Laptop mit sich hat. Deswegen haben wir uns entschieden CouchBug zu entwickeln. Ein einfacher, wunderbarer und schneller Weg, um von unterwegs auf CS zuzugreifen.
+
+Bis jetzt haben wir nur die grundlegenden Funktionen eingebaut aber wir haben beschlossen sehr hart an diesem App zu arbeiten und euch bald neue Features zu bringen.
+Besucht uns auf Facebook und Twitter und lasst uns wissen, was ihr als nächstes wollt.
+
+FEATURES
+✓ Mit CS Benutzername anmelden
+✓ Übersicht über CouchSurfer Profil(# ungelesene Nachrichten, Couchanfragen, Freundschaftseinladungen)
+✓ umfangreiche CouchSuche
+✓ Couches in der Nähe über GPS Standort
+✓ Benutzerprofile mit persönlichen Informationen, Standort, Couch-Infos und Bewertungen
+✓ Möglichkeit Couchanfragen zu senden
+
+Um mehr über CouchSurfing zu erfahren, besuche bitte http://www.couchsurfing.org/about.html

@@ -1,0 +1,9 @@
+1.1
+✦ (null) Benutzername & Profilfoto repariert
+✦ Letztes Login Datum und Standort wird wieder im Benutzerprofil angezeigt
+✦ Link zu unserer CouchSurfing Gruppe zu Über uns Seite hinzugefügt
+✦ Türkische Übersetzung von Burak Sen (ATCiKUK) hinzugefügt
+✦ Andere Probleme beseitigt
+
+Danke an Alle für eure Unterstützung!
+Bitte hinterlasst eine Bewertung im AppStore nach jedem Update!
