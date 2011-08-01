@@ -1,0 +1,8 @@
+﻿1.1
+✦ (null) kullanıcı adı & profil resmi düzeltildi 
+✦ son giriş tarihi ve lokasyon kullanıcının profilinde tekrar gösterilmeye başlandı 
+✦ Hakkında sayfasına CouchBug linki eklendi 
+✦ Burak Sen (buraxenn) tarafından Türkçe çeviri eklendi 
+✦ diğer minör hatalar düzeltildi 
+
+Desteğiniz için teşekkürler! AppStore'da bize her güncelleme sonrası yorum bırakmayı unutmayınız...
