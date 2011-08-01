@@ -69,7 +69,7 @@
 "ANY LANGUAGE" = "Sprache egal";
 
 // Search location
-"LOADING LOCATIONS" = "Standort wird geladen
+"LOADING LOCATIONS" = "Standort wird geladen";
 "CURRENT LOCATION" = "Aktueller Standort";
 "EVERYWHERE" = "überall";
 
@@ -81,7 +81,7 @@
 "CURRENT MISSION" = "Aktuelle Mission";
 "PERSONAL DESCRIPTION" = "Persönliche Beschreibung";
 "COUCH INFORMATION" = "Couchinformation";
-"LOADING" = "Wird geladen",
+"LOADING" = "Wird geladen";
 
 "PREFERRED GENDER" = "Bevorzugtes Geschlecht";
 "MAX SURFERS PER NIGHT" = "Max Surfer pro Nacht";
@@ -128,7 +128,7 @@
 "SORRY" = "Entschuldigung";
 "LOGIN ERROR" = "Kombination von Benutzername und Passwort ist nicht gültig";
 
-"LOADING PROFILE" = "Profil wird geladen"
+"LOADING PROFILE" = "Profil wird geladen";
 
 // More tab
 "COUCHSURFING" = "CouchSurfing";
