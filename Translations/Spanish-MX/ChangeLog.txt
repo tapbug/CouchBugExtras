@@ -1,0 +1,8 @@
+﻿1.1
+✦ (null) nombre de usuario y foto de perfil actualizados
+✦ último ingreso y ubicación se muestra en el perfil del usuario una vez más
+✦ Enlace para nuestro grupo en CouchSurfing agregado en la página de Acerca
+✦ Traducción al Turco por Burak Sen (buraxenn)
+✦ Otros errores corregidos
+
+Gracias por tu apoyo! Por favor deja una reseña en AppStore después de cada actualización.
