@@ -1,0 +1,8 @@
+﻿1.1
+✦ (null) nom d'utilisateur et photo de profil réorganisés 
+✦ Date de dernière connexion et localisation indiquée au nouveau profil de l'utilisateur
+✦ Un lien vers notre  groupe de CouchSurfing a été ajouté à propos de la page 
+✦ La traduction turque ajoutée par Burak Sen (buraxenn)
+✦ Autres corrections de bugs
+
+Merci pour votre soutien! S'il vous plaît, laissez-nous une référence dans l’AppStore après chaque mise à jour ...
